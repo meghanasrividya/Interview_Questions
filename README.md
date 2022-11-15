@@ -37,3 +37,16 @@ Interview_Questions
 
 - Python is versatile and programming friendly with vast libraries makes Automation easy and smooth. Hence is has extensive use in DevOps and has become the de facto language for Automation of DevOps
 
+### Have you done any scripting before?
+- we have used boto3 for scripting the CRUD operations of S3
+- Boto3 is the Amazon Web Services (AWS) Software Development Kit (SDK) for Python, which allows Python developers to write software that makes use of services like Amazon S3 and Amazon EC2. 
+
+### What is virtualisation?
+- Virtualization is the "creation of a virtual (rather than actual) version of something, such as a server, a desktop, a storage device, an operating system or network resources".
+
+- In other words, Virtualization is a technique, which allows to share a single physical instance of a resource or an application among multiple customers and organizations. It does by assigning a logical name to a physical storage and providing a pointer to that physical resource when demanded.
+
+### What is Git/Github?
+- Git is an open-source distributed version control system. It is designed to handle minor to major projects with high speed and efficiency. It is developed to co-ordinate the work among the developers. The version control allows us to track and work together with our team members at the same workspace.
+
+
