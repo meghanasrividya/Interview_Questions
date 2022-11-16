@@ -49,4 +49,16 @@ Interview_Questions
 ### What is Git/Github?
 - Git is an open-source distributed version control system. It is designed to handle minor to major projects with high speed and efficiency. It is developed to co-ordinate the work among the developers. The version control allows us to track and work together with our team members at the same workspace.
 
+### What is the difference between security group and a NACL?
+- It adds a security layer to EC2 instances that control both inbound and outbound traffic at the instance level.
+
+- NACL also adds an additional layer of security associated with subnets that control both inbound and outbound traffic at the subnet level.
+
+### What is a VPC?
+- VPC stands for Virtual Private Cloud.
+- Amazon Virtual Private Cloud (Amazon VPC) provides a logically isolated area of the AWS cloud where you can launch AWS resources in a virtual network that you define.
+- You have complete control over your virtual networking environment, including a selection of your IP address range, the creation of subnets, and configuration of route tables and network gateways.
+- You can easily customize the network configuration for your Amazon Virtual Private Cloud. For example, you can create a public-facing subnet for web servers that can access to the internet and can also place your backend system such as databases or application servers to a private-facing subnet.
+- You can provide multiple layers of security, including security groups and network access control lists, to help control access to Amazon EC2 instances in each subnet.
+
 
