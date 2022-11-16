@@ -3,7 +3,7 @@ Interview_Questions
 ### What is DevOps?
 - The DevOps is a combination of two words, one is software Development, and second is Operations. This allows a single team to handle the entire application lifecycle, from development to testing, deployment, and operations. DevOps helps you to reduce the disconnection between software developers, quality assurance (QA) engineers, and system administrators.
 
-### What are the benifits of DevOps?
+### What are the benefits of DevOps?
 
 - DevOps is an excellent approach for quick development and deployment of applications.
 - It responds faster to the market changes to improve business growth.
