@@ -89,7 +89,7 @@ Interview_Questions
 ## Soft Skills Questions
 
 ### How do you handle stress?
-- I actually prefer to work under stressful or pressurised conditions because this is when I am at my best. I handle stress and pressure by focusing on the task in hand, by remaining calm and by creating lists what needs to be done and in what order.I also handle pressure by making sure I keep myself fit and healthy.I eat well and do meditation and gym. By doing these things it enables me to maintain optimum concentration levels whilst at work.
+- I actually prefer to work under stressful or pressurised conditions because this is when I am at my best. I handle stress and pressure by focusing on the task in hand, by remaining calm and by creating lists what needs to be done and in what order.I also handle pressure by making sure I keep myself fit and healthy.I eat well and do meditation and exercise. By doing these things it enables me to maintain optimum concentration levels whilst at work.
 
 ### Why DevOps?
 
