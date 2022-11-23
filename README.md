@@ -90,4 +90,16 @@ Interview_Questions
 ### Why DevOps?
 
 - I worked as IT Helpdesk co-ordinator for 5 years where I had to do job of system administrator we had to the updates manually on regular basis.
-Using DeVOps 
+- Using DeVOps we can automate the work that a system administrator do. So I wanted to learn the DevOps skills and become DevOps Engineer.
+
+### Where do you see yourself in 5 years of time?
+- In 5 years of time , I still wanted to work for sparta global as permanent employee having gained advancement in the role.
+- I wanted to gain proficiency in the technical skills.
+- As I enjoy learning a  lot I wanted to do many certifications which help me to progress in my role.
+- I am positive and determined toward achieving my goals as well as company goals
+- I will be comitted and determined to my profession and deliver the best while learning from the best.
+- I would like to see myself in managerial role where I can showcase my leadership qualities and help my team members. 
+
+### What can you bring to the role?
+- I can bring positivity, experience, a creative approach to solving problems.I can bring drive, a passion for this industry.
+- I will bring an ability to  multitask and ability of completing challenging tasks and projects on time, and assurance that I will always take steps to improve ,grow and develop in the role while contributing to the organisation.
