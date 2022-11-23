@@ -86,6 +86,14 @@ Interview_Questions
 - Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same ways you manage your applications.
 
 - Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application's services.
+
+### Describe the CI/CD process from making changes to the code and integrating into the pipeline
+- Continuous Integrationis the practice of automating the build and testing of code every time a change is made — and committing that code back to a central repository.
+- Continuous Delivery is an extension of continuous integration to make sure that you can release new changes to your customers quickly in a sustainable way. This means that on top of having automated your testing, you also have automated your release process and you can deploy your application at any point of time by clicking on a button.
+- I have implemented the CI/CD process using Jenkins.
+- When you commit some changes in the local host in dev branch and push to github ,First job is triggered since the webhook from jenkins is linked to github.
+  This inturn triggers second job and merges the changes into main branch.Second  job triggers the third job and deploy the changes to the production environment.
+
 ## Soft Skills Questions
 
 ### How do you handle stress?
