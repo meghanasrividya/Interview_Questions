@@ -82,6 +82,10 @@ Interview_Questions
 
 - A pull request – also referred to as a merge request – is an event that takes place in software development when a contributor/developer is ready to begin the process of merging new code changes with the main project repository.
 
+### What is Docker and Docker compose file?
+- Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same ways you manage your applications.
+
+- Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application's services.
 ## Soft Skills Questions
 
 ### How do you handle stress?
