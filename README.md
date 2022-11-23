@@ -68,3 +68,26 @@ Interview_Questions
 - Continuous integration is a coding philosophy and set of practices that drive development teams to frequently implement small code changes and check them in to a version control repository. Most modern applications require developing code using a variety of platforms and tools, so teams need a consistent mechanism to integrate and validate changes. Continuous integration establishes an automated way to build, package, and test their applications. Having a consistent integration process encourages developers to commit code changes more frequently, which leads to better collaboration and code quality.
 
 - Continuous delivery picks up where continuous integration ends, and automates application delivery to selected environments, including production, development, and testing environments. Continuous delivery is an automated way to push code changes to these environments.
+
+### What is the difference between monolith and 2 tier architecture?
+
+- In Monolith architecture, the whole application works only as a single layer. A layer is a group of objects. Smaller applications are usually written this way. The monolithic architecture is rather an antipattern and we shouldn't use it for larger applications.
+
+- In the two-tier architecture, applications on the client end can directly communicate with the database at the server side. 
+   - The user interfaces and application programs are run on the client-side.
+   - The server side is responsible to provide the functionalities like: query processing and transaction management.
+   - To communicate with the DBMS, client-side application establishes a connection with the server side.
+   
+### What is pull request?
+
+- A pull request – also referred to as a merge request – is an event that takes place in software development when a contributor/developer is ready to begin the process of merging new code changes with the main project repository.
+
+## Soft Skills Questions
+
+### How do you handle stress?
+- I actually prefer to work under stressful or pressurised conditions because this is when I am at my best. I handle stress and pressure by focusing on the task in hand, by remaining calm and by creating lists what needs to be done and in what order.I also handle pressure by making sure I keep myself fit and healthy.I eat well and do meditation and gym. By doing these things it enables me to maintain optimum concentration levels whilst at work.
+
+### Why DevOps?
+
+- I worked as IT Helpdesk co-ordinator for 5 years where I had to do job of system administrator we had to the updates manually on regular basis.
+Using DeVOps 
